@@ -1,1 +1,1 @@
-# Principal-Component-Analysis-On-Image-Dataset
+# Principal-Component-Analysis
